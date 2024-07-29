@@ -23,3 +23,5 @@ class stack:
         self.top = self.top.next
         
         return node.item
+    
+    # 
